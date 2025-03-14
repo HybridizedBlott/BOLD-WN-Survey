@@ -8,8 +8,8 @@ Although some studies have assessed the role of waterfowl in WNV transmission, n
 
 This project serves both as:
 
-A proof-of-concept for using BOLD as a platform for species distribution monitoring.
-A foundational analysis for understanding taxonomic and geographic patterns in waterfowl populations relevant to zoonotic disease spread.
+- A proof-of-concept for using BOLD as a platform for species distribution monitoring.
+- A foundational analysis for understanding taxonomic and geographic patterns in waterfowl populations relevant to zoonotic disease spread.
 
 ---
 ### Author:
